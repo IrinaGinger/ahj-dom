@@ -4,9 +4,6 @@ export default class GamePlay {
         this.container = null;
         this.boardEl = null;
         this.cells = [];
-    //   this.cellClickListeners = [];
-    //   this.cellEnterListeners = [];
-    //   this.cellLeaveListeners = [];
     }
 
     bindToDOM(container) {
